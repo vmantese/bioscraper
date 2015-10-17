@@ -1,0 +1,15 @@
+<scrape address="0:1:2:1:4:0" baseURI="testud.testco.com/funny/">
+URL1
+URL2
+URL3
+</scrape>
+<scrape address="0:1:2:1:4:1" baseURI="news.google.com">
+URL4
+URL5
+URL6
+</scrape>
+<scrape address="0:1:2:1:4:1:0" baseURI=URL4>
+URL7
+URL8
+URL9
+</scrape>
