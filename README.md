@@ -1,1 +1,1 @@
-This is the most basic version of web scraper. It uses HTTP REquests and is very fast. In order to run this, BeautifulSoup 4 (BS4) must be installed. This version cannot handle any type of Javascript and will fail Javascript checks.
+First experiment for news scraper on life-science related topics
